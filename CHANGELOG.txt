@@ -2,4 +2,17 @@
 
 Initial working version.
 
+*****
 
+Work to do:
+- documentation
+- pip
+- testing
+- cpython support
+- class' methods support
+- depth flag?
+
+
+*****  Sat Jul 30 12:52:26 CEST 2022  *****
+
+Added stop point when a module does not have an '__all__'.
